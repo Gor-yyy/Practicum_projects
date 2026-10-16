@@ -15,3 +15,9 @@ This repository contains my projects in manual and automated software testing, c
 - **Description:** Unit tests for a Java burger application, covering ingredient management, price calculation, receipt generation, and ingredient movement.
 - **Tools:** Java 11, Maven, JUnit 4, Mockito, JaCoCo.
 - **Repository:** [QA-java-diplom-1](https://github.com/Gor-yyy/QA-java-diplom-1)
+
+### 3. QA Java Diploma 2 — API Test Automation
+
+- **Description:** Automated API tests for user registration, authentication, and order creation in Stellar Burgers, including positive and negative scenarios.
+- **Tools:** Java 11, Maven, JUnit 4, REST Assured, Jackson Databind, Allure.
+- **Repository:** [QA-java-diplom-2](https://github.com/Gor-yyy/QA-java-diplom-2/tree/develop2)
