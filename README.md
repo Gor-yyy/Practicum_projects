@@ -18,6 +18,7 @@ This repository contains my projects in manual and automated software testing, c
 
 ### 3. QA Java Diploma 2 — API Test Automation
 
-- **Description:** Automated API tests for user registration, authentication, and order creation in Stellar Burgers, including positive and negative scenarios.
+- **Description:** Automated API tests for the Stellar Burgers application, covering user registration, login, and order creation with and without authorization, as well as negative scenarios involving missing data and invalid credentials or ingredient IDs.
 - **Tools:** Java 11, Maven, JUnit 4, REST Assured, Jackson Databind, Allure.
 - **Repository:** [QA-java-diplom-2](https://github.com/Gor-yyy/QA-java-diplom-2/tree/develop2)
+
