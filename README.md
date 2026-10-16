@@ -1,6 +1,6 @@
 # QA Portfolio
 
-This repository contains my projects in manual and automated software testing.
+This repository contains my projects in manual and automated software testing, completed during my QA training and independent practice.
 
 ## Projects
 
@@ -10,11 +10,8 @@ This repository contains my projects in manual and automated software testing.
 - **Tools:** Java 11, Maven, JUnit 4, Selenium WebDriver, REST Assured, Allure.
 - **Repository:** [StellarBurgers](https://github.com/Gor-yyy/StellarBurgers)
 
+### 2. QA Java Diploma 1 — Unit Test Automation
 
-2. QA Java Diploma 1 — Unit Test Automation
-
-Description: Unit tests for a Java burger application, covering ingredient management, price calculation, receipt generation, and ingredient movement.
-
-Tools: Java 11, Maven, JUnit 4, Mockito, JaCoCo.
-
-Repository: QA-java-diplom-1
+- **Description:** Unit tests for a Java burger application, covering ingredient management, price calculation, receipt generation, and ingredient movement.
+- **Tools:** Java 11, Maven, JUnit 4, Mockito, JaCoCo.
+- **Repository:** [QA-java-diplom-1](https://github.com/Gor-yyy/QA-java-diplom-1)
